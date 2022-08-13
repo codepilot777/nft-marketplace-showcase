@@ -26,7 +26,7 @@ const styles = {
 
   section: "flex justify-center items-center p-16 sm:p-8",
   subSection: "flex items-center w-full minmd:w-3/4",
-  descDiv: "flex-1 w-full flex justify-start flex-col md:mb-10 ",
+  descDiv: "flex-1 w-full flex justify-start flex-col md:mb-10",
 
   flexCenter: "flex justify-center items-center",
   flexWrap: "flex justify-center flex-wrap",
